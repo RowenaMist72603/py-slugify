@@ -3,8 +3,8 @@
 ```
 slugify.py
 ```
-See the test next to the source for usage.
+Run the Python Slugify test next to the implementation for concrete examples.
 
 Turn any string into a clean URL slug — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+Python Slugify uses only the python standard library; there is no service or dependency to install.
